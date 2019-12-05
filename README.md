@@ -1,7 +1,7 @@
 # vue-form-example
 A quick example demonstrating Vue 2.x forms.
 
-Created by [@yomete](https://github.com/yomete) and published on the [LogRocket blog](https://blog.logrocket.com/an-imperative-guide-to-forms-in-vue-js-2/), it seems to be quite popular amongst Google searchers. However it has only been available as a [CodePen](https://codepen.io/olayinkaos/pen/GMmpPm) and was never uploaded to GitHub up until now.
+Created by [@yomete](https://github.com/yomete) and published as [an imperative guide to forms in Vue.js](https://blog.logrocket.com/an-imperative-guide-to-forms-in-vue-js-2/), it seems to be quite popular amongst Google searchers. However it has only been available as a [CodePen](https://codepen.io/olayinkaos/pen/GMmpPm) and was never uploaded to GitHub up until now.
 
 All in all it's a great little boilerplate for Vue forms.
 
