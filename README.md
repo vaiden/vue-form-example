@@ -5,6 +5,8 @@ Created by [@yomete](https://github.com/yomete) and published as [an imperative 
 
 All in all it's a great little boilerplate for Vue forms.
 
+![screenshot](https://i0.wp.com/logrocket-blog.ghost.io/content/images/downloaded_images/An-imperative-guide-to-forms-in-Vue-js/1-b7DlGgXOqD4LL8k3IZnVXQ.png)
+
 ## Project setup
 ```
 yarn install
